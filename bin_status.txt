@@ -1,0 +1,1 @@
+{"paper": false, "plastic": false, "metal": true, "trash": false}
